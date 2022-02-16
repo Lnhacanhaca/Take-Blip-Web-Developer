@@ -1,10 +1,18 @@
 .navbar{
-    background-color: rgb(252, 197, 57);
+    background-color: #fcc539;
 }
 #quemsou {
-    background-color: aquamarine;
+    background-color: #9bbec7;
 }
 .margin {
     padding-top: 20px;
     padding-bottom: 20px;
+}
+#servico {
+    background-color: aliceblue;
+}
+
+#bg-footer {
+    background-color:  #251605;
+    text-decoration: #ffffff;
 }
